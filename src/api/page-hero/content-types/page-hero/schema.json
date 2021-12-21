@@ -12,15 +12,17 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "text": {
-      "type": "component",
-      "repeatable": true,
-      "component": "text.text"
+    "short_text": {
+      "type": "string"
     },
-    "buttons": {
-      "type": "component",
-      "repeatable": true,
-      "component": "button.buttons"
+    "main_text": {
+      "type": "text"
+    },
+    "text_description": {
+      "type": "text"
+    },
+    "button_text": {
+      "type": "string"
     }
   }
 }
