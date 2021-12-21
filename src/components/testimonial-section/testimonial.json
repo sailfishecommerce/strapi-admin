@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_testimonial_section_testimonials",
+  "info": {
+    "displayName": "Testimonial",
+    "icon": "arrow-right"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    }
+  }
+}

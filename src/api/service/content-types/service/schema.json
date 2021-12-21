@@ -1,0 +1,32 @@
+{
+  "kind": "singleType",
+  "collectionName": "services",
+  "info": {
+    "singularName": "service",
+    "pluralName": "services",
+    "displayName": "Service",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "Services_List": {
+      "type": "component",
+      "repeatable": true,
+      "component": "tab-services.tab-services"
+    },
+    "Services_Card": {
+      "type": "component",
+      "repeatable": true,
+      "component": "service-card.service-card"
+    }
+  }
+}

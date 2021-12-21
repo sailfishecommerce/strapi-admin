@@ -1,0 +1,37 @@
+{
+  "kind": "singleType",
+  "collectionName": "info_sections",
+  "info": {
+    "singularName": "info-section",
+    "pluralName": "info-sections",
+    "displayName": "Info-section",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Counter": {
+      "type": "component",
+      "repeatable": true,
+      "component": "counter.counter"
+    },
+    "Testimonial_Section": {
+      "type": "component",
+      "repeatable": true,
+      "component": "testimonial-section.testimonial"
+    },
+    "Testimonial_Carousel": {
+      "type": "component",
+      "repeatable": true,
+      "component": "testimonial.testimonial"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tabs",
+  "info": {
+    "singularName": "tab",
+    "pluralName": "tabs",
+    "displayName": "Tab",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Tab_Header_1": {
+      "type": "string"
+    },
+    "Tab_Header_2": {
+      "type": "string"
+    },
+    "Tab_Description": {
+      "type": "string"
+    },
+    "Tab_list": {
+      "type": "component",
+      "repeatable": true,
+      "component": "item-list.list"
+    },
+    "Tab_Services": {
+      "type": "component",
+      "repeatable": true,
+      "component": "tab-services.tab-services"
+    },
+    "Tab_services_no_count": {
+      "type": "component",
+      "repeatable": true,
+      "component": "tab-services-no-count.tab-services-no-count"
+    },
+    "text": {
+      "type": "component",
+      "repeatable": true,
+      "component": "text.text"
+    }
+  }
+}

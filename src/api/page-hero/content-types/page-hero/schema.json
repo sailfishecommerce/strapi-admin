@@ -1,0 +1,26 @@
+{
+  "kind": "singleType",
+  "collectionName": "page_heroes",
+  "info": {
+    "singularName": "page-hero",
+    "pluralName": "page-heroes",
+    "displayName": "Page-hero",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "text": {
+      "type": "component",
+      "repeatable": true,
+      "component": "text.text"
+    },
+    "buttons": {
+      "type": "component",
+      "repeatable": true,
+      "component": "button.buttons"
+    }
+  }
+}

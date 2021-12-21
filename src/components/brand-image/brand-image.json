@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_brand_image_brand_images",
+  "info": {
+    "displayName": "Brand_image",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "brand_logo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

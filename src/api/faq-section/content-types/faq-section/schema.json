@@ -1,0 +1,31 @@
+{
+  "kind": "singleType",
+  "collectionName": "faq_sections",
+  "info": {
+    "singularName": "faq-section",
+    "pluralName": "faq-sections",
+    "displayName": "Faq-section",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Section_Header": {
+      "type": "string"
+    },
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "FAQ": {
+      "displayName": "FAQ_Accordion",
+      "type": "component",
+      "repeatable": true,
+      "component": "faq-accordion.faq-accordion"
+    }
+  }
+}

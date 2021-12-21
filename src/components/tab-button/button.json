@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_tab_button_button_s",
+  "info": {
+    "displayName": "Button ",
+    "icon": "asterisk",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Button_Link": {
+      "type": "string"
+    },
+    "Button_Text": {
+      "type": "string"
+    }
+  }
+}

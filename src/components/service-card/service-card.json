@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_service_card_service_cards",
+  "info": {
+    "displayName": "Service Card",
+    "icon": "atom",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    }
+  }
+}

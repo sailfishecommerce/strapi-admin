@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_counter_counters",
+  "info": {
+    "displayName": "Counter",
+    "icon": "award"
+  },
+  "options": {},
+  "attributes": {
+    "Counter_Title": {
+      "type": "string"
+    },
+    "Count": {
+      "type": "integer"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "page_feature_carousels",
+  "info": {
+    "singularName": "page-feature-carousel",
+    "pluralName": "page-feature-carousels",
+    "displayName": "Page-feature-carousel",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Feature_carousel": {
+      "type": "component",
+      "repeatable": true,
+      "component": "feature-carousel.feature-carousel"
+    }
+  }
+}

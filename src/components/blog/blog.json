@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_blog_blogs",
+  "info": {
+    "displayName": "Blog",
+    "icon": "book-open"
+  },
+  "options": {},
+  "attributes": {
+    "Tag": {
+      "type": "string"
+    },
+    "Title": {
+      "type": "string"
+    },
+    "Author": {
+      "type": "string"
+    },
+    "Date_published": {
+      "type": "datetime"
+    },
+    "Blog": {
+      "type": "richtext"
+    },
+    "Blog_Image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

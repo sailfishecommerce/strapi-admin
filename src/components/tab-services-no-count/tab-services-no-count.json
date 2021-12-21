@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_tab_services_no_count_tab_services_no_count_s",
+  "info": {
+    "displayName": "Tab Services (No count)",
+    "icon": "angle-double-right"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
