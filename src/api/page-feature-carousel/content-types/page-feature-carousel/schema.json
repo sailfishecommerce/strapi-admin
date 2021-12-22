@@ -11,11 +11,5 @@
     "draftAndPublish": true
   },
   "pluginOptions": {},
-  "attributes": {
-    "Feature_carousel": {
-      "type": "component",
-      "repeatable": true,
-      "component": "feature-carousel.feature-carousel"
-    }
-  }
+  "attributes": {}
 }
