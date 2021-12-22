@@ -21,25 +21,17 @@
     "Tab_Description": {
       "type": "string"
     },
-    "Tab_list": {
-      "type": "component",
-      "repeatable": true,
-      "component": "item-list.list"
+    "Tab_services_list_1": {
+      "type": "string"
     },
-    "Tab_Services": {
-      "type": "component",
-      "repeatable": true,
-      "component": "tab-services.tab-services"
+    "Tab_services_list_2": {
+      "type": "string"
     },
-    "Tab_services_no_count": {
-      "type": "component",
-      "repeatable": true,
-      "component": "tab-services-no-count.tab-services-no-count"
+    "Tab_services_list_3": {
+      "type": "string"
     },
-    "text": {
-      "type": "component",
-      "repeatable": true,
-      "component": "text.text"
+    "Tab_services_list_4": {
+      "type": "string"
     }
   }
 }

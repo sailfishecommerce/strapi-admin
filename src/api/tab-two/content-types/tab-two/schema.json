@@ -1,0 +1,42 @@
+{
+  "kind": "singleType",
+  "collectionName": "tab_twos",
+  "info": {
+    "singularName": "tab-two",
+    "pluralName": "tab-twos",
+    "displayName": "Tab-two"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Tab_Header": {
+      "type": "string"
+    },
+    "Tab_description": {
+      "type": "text"
+    },
+    "Tab_feature_1_metric": {
+      "type": "string"
+    },
+    "Tab_feature_1_title": {
+      "type": "string"
+    },
+    "Tab_feature_1_description": {
+      "type": "text"
+    },
+    "Tab_feature_2_metric": {
+      "type": "string"
+    },
+    "Tab_feature_2_title": {
+      "type": "string"
+    },
+    "Tab_feature_2_description": {
+      "type": "text"
+    }
+  }
+}

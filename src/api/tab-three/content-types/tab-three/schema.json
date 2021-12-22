@@ -1,0 +1,36 @@
+{
+  "kind": "singleType",
+  "collectionName": "tab_threes",
+  "info": {
+    "singularName": "tab-three",
+    "pluralName": "tab-threes",
+    "displayName": "Tab-three"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Tab_header": {
+      "type": "string"
+    },
+    "Tab_description": {
+      "type": "text"
+    },
+    "Tab_feature_title_1": {
+      "type": "string"
+    },
+    "Tab_feature_description_1": {
+      "type": "text"
+    },
+    "Tab_feature_title_2": {
+      "type": "string"
+    },
+    "Tab_feature_description_2": {
+      "type": "text"
+    }
+  }
+}

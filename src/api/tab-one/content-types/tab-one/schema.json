@@ -1,0 +1,36 @@
+{
+  "kind": "singleType",
+  "collectionName": "tab_ones",
+  "info": {
+    "singularName": "tab-one",
+    "pluralName": "tab-ones",
+    "displayName": "Tab-one"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Tab_header": {
+      "type": "string"
+    },
+    "Tab_description": {
+      "type": "text"
+    },
+    "Tab_list_1": {
+      "type": "string"
+    },
+    "Tab_list_2": {
+      "type": "string"
+    },
+    "Tab_list_3": {
+      "type": "string"
+    },
+    "Tab_list_4": {
+      "type": "string"
+    }
+  }
+}
