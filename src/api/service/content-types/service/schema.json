@@ -12,21 +12,41 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Title": {
-      "type": "string"
-    },
     "description": {
       "type": "string"
     },
-    "Services_List": {
-      "type": "component",
-      "repeatable": true,
-      "component": "tab-services.tab-services"
+    "section_title": {
+      "type": "string"
     },
-    "Services_Card": {
-      "type": "component",
-      "repeatable": true,
-      "component": "service-card.service-card"
+    "Section_Description": {
+      "type": "text"
+    },
+    "Section_button_text": {
+      "type": "string"
+    },
+    "Service_title_1": {
+      "type": "string"
+    },
+    "Service_list_description": {
+      "type": "text"
+    },
+    "Service_list_title_2": {
+      "type": "string"
+    },
+    "Service_list_description_2": {
+      "type": "text"
+    },
+    "Service_list_title_3": {
+      "type": "string"
+    },
+    "Service_list_description_3": {
+      "type": "text"
+    },
+    "Service_list_title_4": {
+      "type": "string"
+    },
+    "Service_list_description_4": {
+      "type": "text"
     }
   }
 }

@@ -12,10 +12,29 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Blog_Post": {
-      "type": "component",
-      "repeatable": true,
-      "component": "blog.blog"
+    "Title": {
+      "type": "string"
+    },
+    "tag": {
+      "type": "string"
+    },
+    "author": {
+      "type": "string"
+    },
+    "Date": {
+      "type": "datetime"
+    },
+    "post": {
+      "type": "richtext"
+    },
+    "Post_Image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }

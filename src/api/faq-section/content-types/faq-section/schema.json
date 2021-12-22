@@ -21,11 +21,29 @@
     "Description": {
       "type": "text"
     },
-    "FAQ": {
-      "displayName": "FAQ_Accordion",
-      "type": "component",
-      "repeatable": true,
-      "component": "faq-accordion.faq-accordion"
+    "Faq_question_1": {
+      "type": "string"
+    },
+    "Faq_answer_1": {
+      "type": "text"
+    },
+    "Faq_question_2": {
+      "type": "string"
+    },
+    "Faq_answer_2": {
+      "type": "text"
+    },
+    "Faq_question_3": {
+      "type": "string"
+    },
+    "Faq_answer_3": {
+      "type": "text"
+    },
+    "Faq_question_4": {
+      "type": "string"
+    },
+    "Faq_answer_4": {
+      "type": "text"
     }
   }
 }

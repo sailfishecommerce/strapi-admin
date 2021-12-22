@@ -1,0 +1,69 @@
+{
+  "kind": "singleType",
+  "collectionName": "testimonials",
+  "info": {
+    "singularName": "testimonial",
+    "pluralName": "testimonials",
+    "displayName": "Testimonial"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Testimonial_title": {
+      "type": "string"
+    },
+    "Testimonial_description": {
+      "type": "text"
+    },
+    "Button_text": {
+      "type": "string"
+    },
+    "Author_1_name": {
+      "type": "string"
+    },
+    "Author_1_job_role": {
+      "type": "string"
+    },
+    "Author_2_description": {
+      "type": "text"
+    },
+    "Author_2_name": {
+      "type": "string"
+    },
+    "Author_2_job_role": {
+      "type": "string"
+    },
+    "Author_1_description": {
+      "type": "text"
+    },
+    "Author_3_name": {
+      "type": "string"
+    },
+    "Author_3_job_role": {
+      "type": "string"
+    },
+    "Author_3_description": {
+      "type": "text"
+    },
+    "Author_4_name": {
+      "type": "string"
+    },
+    "Author_4_job_role": {
+      "type": "string"
+    },
+    "Author_4_description": {
+      "type": "text"
+    },
+    "Author_5_name": {
+      "type": "string"
+    },
+    "Author_5_job_role": {
+      "type": "string"
+    },
+    "Author_5_description": {
+      "type": "text"
+    }
+  }
+}

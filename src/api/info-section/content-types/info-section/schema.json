@@ -18,20 +18,29 @@
     "Description": {
       "type": "text"
     },
-    "Counter": {
-      "type": "component",
-      "repeatable": true,
-      "component": "counter.counter"
+    "Counter_text": {
+      "type": "string"
     },
-    "Testimonial_Section": {
-      "type": "component",
-      "repeatable": true,
-      "component": "testimonial-section.testimonial"
+    "Counter_2": {
+      "type": "integer"
     },
-    "Testimonial_Carousel": {
-      "type": "component",
-      "repeatable": true,
-      "component": "testimonial.testimonial"
+    "Counter_text_2": {
+      "type": "string"
+    },
+    "Counter_3": {
+      "type": "integer"
+    },
+    "Counter_text_3": {
+      "type": "string"
+    },
+    "Counter_text_4": {
+      "type": "string"
+    },
+    "Counter_4": {
+      "type": "integer"
+    },
+    "Counter_1": {
+      "type": "integer"
     }
   }
 }

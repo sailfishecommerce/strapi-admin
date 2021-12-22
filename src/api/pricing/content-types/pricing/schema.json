@@ -12,10 +12,80 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "pricing": {
-      "type": "component",
-      "repeatable": true,
-      "component": "pricing.pricing"
+    "Pricing_header": {
+      "type": "string"
+    },
+    "Pricing_title": {
+      "type": "string"
+    },
+    "Pricing_description": {
+      "type": "string"
+    },
+    "Monthly_starter_price": {
+      "type": "integer"
+    },
+    "Monthly_professional_price": {
+      "type": "integer"
+    },
+    "Monthly_organization_price": {
+      "type": "integer"
+    },
+    "Annual_starter_price": {
+      "type": "integer"
+    },
+    "Annual_professional_price": {
+      "type": "integer"
+    },
+    "Annual_organization_price": {
+      "type": "integer"
+    },
+    "starter_feature_description": {
+      "type": "string"
+    },
+    "professional_feature_description": {
+      "type": "string"
+    },
+    "organization_feature_description": {
+      "type": "string"
+    },
+    "starter_list_1": {
+      "type": "string"
+    },
+    "starter_list_2": {
+      "type": "string"
+    },
+    "starter_list_3": {
+      "type": "string"
+    },
+    "starter_list_4": {
+      "type": "string"
+    },
+    "professional_list_1": {
+      "type": "string"
+    },
+    "professional_list_2": {
+      "type": "string"
+    },
+    "professional_list_3": {
+      "type": "string"
+    },
+    "professional_list_4": {
+      "type": "string"
+    },
+    "professional_list_5": {
+      "type": "string"
+    },
+    "organization_list_1": {
+      "type": "string"
+    },
+    "organization_list_2": {
+      "type": "string"
+    },
+    "organization_list_3": {
+      "type": "string"
+    },
+    "organization_list_4": {
+      "type": "string"
     }
   }
 }
