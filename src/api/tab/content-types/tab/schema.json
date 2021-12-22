@@ -18,9 +18,6 @@
     "Tab_Header": {
       "type": "text"
     },
-    "Tab_Header_2": {
-      "type": "string"
-    },
     "Tab_Description": {
       "type": "string"
     },

@@ -2,12 +2,18 @@
   "collectionName": "components_item_list_lists",
   "info": {
     "displayName": "List",
-    "icon": "list"
+    "icon": "list",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "list_text": {
       "type": "string"
+    },
+    "tab": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::tab.tab"
     }
   }
 }
