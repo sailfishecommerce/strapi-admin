@@ -9,11 +9,6 @@
   "attributes": {
     "list_text": {
       "type": "string"
-    },
-    "tab": {
-      "type": "relation",
-      "relation": "oneToOne",
-      "target": "api::tab.tab"
     }
   }
 }
