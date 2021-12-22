@@ -17,12 +17,6 @@
     },
     "Section_Description": {
       "type": "string"
-    },
-    "Blog": {
-      "displayName": "Blog",
-      "type": "component",
-      "repeatable": true,
-      "component": "blog.blog"
     }
   }
 }

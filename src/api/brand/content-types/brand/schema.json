@@ -11,12 +11,5 @@
     "draftAndPublish": true
   },
   "pluginOptions": {},
-  "attributes": {
-    "brand": {
-      "displayName": "Brand_image",
-      "type": "component",
-      "repeatable": true,
-      "component": "brand-image.brand-image"
-    }
-  }
+  "attributes": {}
 }
