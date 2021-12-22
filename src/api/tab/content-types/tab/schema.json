@@ -15,8 +15,8 @@
     "Title": {
       "type": "string"
     },
-    "Tab_Header_1": {
-      "type": "string"
+    "Tab_Header": {
+      "type": "text"
     },
     "Tab_Header_2": {
       "type": "string"
