@@ -4,7 +4,8 @@
   "info": {
     "singularName": "tab-one",
     "pluralName": "tab-ones",
-    "displayName": "Tab-one"
+    "displayName": "Tab-one",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -31,6 +32,33 @@
     },
     "Tab_list_4": {
       "type": "string"
+    },
+    "Tab_main_image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Tab_top_image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Tab_bottom_image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }

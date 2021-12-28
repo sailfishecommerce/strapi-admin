@@ -4,7 +4,8 @@
   "info": {
     "singularName": "tab-two",
     "pluralName": "tab-twos",
-    "displayName": "Tab-two"
+    "displayName": "Tab-two",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -37,6 +38,42 @@
     },
     "Tab_feature_2_description": {
       "type": "text"
+    },
+    "Tab_image_icon_top_right": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Tab_image_icon_bottom_middle": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Tab_main_image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Tab_image_icon_top_left": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }

@@ -4,7 +4,8 @@
   "info": {
     "singularName": "tab-three",
     "pluralName": "tab-threes",
-    "displayName": "Tab-three"
+    "displayName": "Tab-three",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -31,6 +32,24 @@
     },
     "Tab_feature_description_2": {
       "type": "text"
+    },
+    "Tab_main_image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Tab_image_icon_top": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
