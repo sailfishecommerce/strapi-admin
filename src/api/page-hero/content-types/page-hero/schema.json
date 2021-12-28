@@ -23,6 +23,15 @@
     },
     "button_text": {
       "type": "string"
+    },
+    "Hero_Image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
