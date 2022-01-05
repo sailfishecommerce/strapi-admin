@@ -1,10 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "overviews",
+  "collectionName": "authors",
   "info": {
-    "singularName": "overview",
-    "pluralName": "overviews",
-    "displayName": "overview",
+    "singularName": "author",
+    "pluralName": "authors",
+    "displayName": "author",
     "description": ""
   },
   "options": {
@@ -12,16 +12,16 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Overview_header": {
+    "name": {
       "type": "string"
     },
-    "Title": {
+    "title": {
       "type": "string"
     },
-    "Overview_description": {
-      "type": "string"
+    "description": {
+      "type": "text"
     },
-    "Overview_image": {
+    "thumbnail": {
       "type": "media",
       "multiple": false,
       "required": false,
@@ -30,6 +30,12 @@
         "files",
         "videos"
       ]
+    },
+    "skills": {
+      "type": "json"
+    },
+    "social": {
+      "type": "json"
     }
   }
 }

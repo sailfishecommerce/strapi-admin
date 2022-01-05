@@ -1,10 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "overviews",
+  "collectionName": "categories",
   "info": {
-    "singularName": "overview",
-    "pluralName": "overviews",
-    "displayName": "overview",
+    "singularName": "category",
+    "pluralName": "categories",
+    "displayName": "category",
     "description": ""
   },
   "options": {
@@ -12,16 +12,13 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Overview_header": {
+    "name": {
       "type": "string"
     },
-    "Title": {
-      "type": "string"
+    "description": {
+      "type": "text"
     },
-    "Overview_description": {
-      "type": "string"
-    },
-    "Overview_image": {
+    "icon": {
       "type": "media",
       "multiple": false,
       "required": false,
