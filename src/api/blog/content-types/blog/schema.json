@@ -36,6 +36,9 @@
         "files",
         "videos"
       ]
+    },
+    "Excerpt": {
+      "type": "text"
     }
   }
 }
