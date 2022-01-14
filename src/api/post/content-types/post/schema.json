@@ -25,9 +25,6 @@
       "relation": "oneToOne",
       "target": "api::author.author"
     },
-    "date": {
-      "type": "date"
-    },
     "thumbnail": {
       "type": "media",
       "multiple": false,

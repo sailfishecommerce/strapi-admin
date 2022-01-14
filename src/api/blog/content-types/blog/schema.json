@@ -21,9 +21,6 @@
     "author": {
       "type": "string"
     },
-    "Date": {
-      "type": "datetime"
-    },
     "post": {
       "type": "richtext"
     },
