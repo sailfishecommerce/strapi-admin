@@ -40,6 +40,9 @@
     },
     "body": {
       "type": "richtext"
+    },
+    "Excerpt": {
+      "type": "text"
     }
   }
 }
